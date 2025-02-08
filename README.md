@@ -1,37 +1,69 @@
-# 👋 Hey there! I'm Stephen Villeta
+<h1 align="center">"Hello World"</h1>
 
-🚀 **Aspiring Software Engineer | Computer Science Student**  
----
+###
 
-## 🔥 About Me
-- 🎓 **2nd-year Computer Science student** at Enverga University
-- 🌱 Exploring **Data Structures, Algorithms, and Competitive Programming**
-- 🎯 Focused on **C++, Java, Dart**, developing queue, stack, and linked list-based systems
-- 💻 Interested in **networking, database systems, and startup innovations**
+<div align="center">
+  <a href="https://www.linkedin.com/in/stephenrn/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="stephenrainevilleta16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/stephenrnrn/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🚀 Projects & Research
-### **FarmFlow** 🌾
-A mobile application aimed at revolutionizing **agricultural marketing** in the Philippines by bridging the gap between farmers and buyers, even in areas with **limited internet connectivity**.
+<h3 align="left">👩‍💻  About Me</h3>
 
-### **PSITES Membership System** 📚
-Designed a **queue and stack-based system** to streamline membership applications and communication within PSITES, enhancing efficiency and user engagement.
+###
 
----
+<p align="left">🎓 2nd-year Computer Science student at Enverga University<br>🌱 Exploring Data Structures, Algorithms, and Competitive Programming<br>🎯 Focused on C++, Java, Dart, developing queue, stack, and linked list-based systems<br>💻 Interested in networking, database systems, and startup innovations</p>
 
-## 🛠 Tech Stack & Skills
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-## 📫 Connect with Me!
-💼 **LinkedIn:** [linkedin.com/in/stephen-villeta](#)  
-📧 **Email:** stephenrainevilleta16@example.com  
-🌐 **Portfolio:** [Coming Soon!]  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=stephenrn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stephenrn.stephenrn&"  />
+</div>
+
+###
