@@ -1,4 +1,4 @@
-<h1 align="center">"SKIBIDI"</h1>
+<h1 align="center">"SIGMA BOI"</h1>
 
 ###
 
