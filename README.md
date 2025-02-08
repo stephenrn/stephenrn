@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/lfSiFrmhrv4AAAAM/mewing-cute.gif" alt="Cat GIF" width="200"/>
+<img align="right" src="https://i.pinimg.com/originals/1b/60/8d/1b608dfe94c57c158d82b68843ecd6f7.gif" alt="Cat GIF" width="200"/>
 
 ### "SIGMA BOI"
 
