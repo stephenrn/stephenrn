@@ -14,15 +14,6 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🎓 2nd-year Computer Science student at Enverga University<br>🌱 Exploring Data Structures, Algorithms, and Competitive Programming<br>🎯 Focused on C++, Java, Dart, developing queue, stack, and linked list-based systems<br>💻 Interested in networking, database systems, and startup innovations</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
