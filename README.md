@@ -14,7 +14,7 @@
   </a>
 </p>
 
-### 🛠 Languages and Tools:
+#### 🛠 Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
